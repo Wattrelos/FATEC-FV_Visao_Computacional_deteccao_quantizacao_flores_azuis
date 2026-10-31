@@ -11,7 +11,7 @@
 
 Em conformidade com a **Etapa 5** do plano de atividades, foram desenvolvidas **3 imagens sintéticas de referência** com quantidades exatas de pixels florais conhecidas previamente (*Ground Truth*). O objetivo desta validação é calcular o erro percentual entre a área real e a área detectada pelo mesmo algoritmo aplicado às imagens reais.
 
-$$E_{\%} = \left( \frac{|N_{\text{detectado}} - N_{\text{real}}|}{N_{\text{real}}} \right) \times 100\%$$
+$$E_{\mathbin{\%}} = \left( \frac{|N_{\text{detectado}} - N_{\text{real}}|}{N_{\text{real}}} \right) \times 100\%$$
 
 ---
 
