@@ -96,9 +96,10 @@ $$\tau = \left( \frac{N_{\text{flores}}}{W \times H} \right) \times 100\%$$
 
 ### 2. Validação Sintética com *Ground Truth* e Erro Relativo
 
-Para validação analítica, são geradas imagens sintéticas contendo formas com quantidade determinística de pixels azuis ($N_{\text{real}}$). A acurácia do método de segmentação é quantificada pelo **Erro Relativo Percentual $E_{\text{\%}}$**:
+Para validação analítica, são geradas imagens sintéticas contendo formas com quantidade determinística de pixels azuis ($N_{\text{real}}$). A acurácia do método de segmentação é quantificada pelo **Erro Relativo Percentual $E_{\mathbin{\%}}$**:
 
-$$E_{\text{\%}} = \left( \frac{|N_{\text{detectado}} - N_{\text{real}}|}{N_{\text{real}}} \right) \times 100\%$$
+$$E_{\mathbin{\%}} = \left( \frac{|N_{\text{detectado}} - N_{\text{real}}|}{N_{\text{real}}} \right) \times 100\%$$
+
 
 ---
 
