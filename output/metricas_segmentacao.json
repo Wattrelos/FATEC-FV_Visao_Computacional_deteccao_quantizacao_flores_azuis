@@ -1,0 +1,12 @@
+[
+  {
+    "caminho_imagem": "image/R5C_4431.cr3",
+    "largura": 4096,
+    "altura": 2732,
+    "total_pixels": 11190272,
+    "pixels_flor": 603809,
+    "taxa_ocupacao_percentual": 5.3958,
+    "num_clusters": 24,
+    "espaco_cor": "LAB"
+  }
+]

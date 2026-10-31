@@ -1,0 +1,47 @@
+[
+  {
+    "id_cenario": "CENARIO_01",
+    "descricao": "Cenario 1 - Geometria regular, flores circulares e fundo verde uniforme",
+    "largura": 1200,
+    "altura": 800,
+    "total_pixels": 960000,
+    "pixels_real_gt": 69884,
+    "pixels_detectados": 69957,
+    "erro_absoluto": 73,
+    "erro_percentual": 0.104,
+    "taxa_ocupacao_real": 7.28,
+    "taxa_ocupacao_detectada": 7.287,
+    "iou_jaccard": 99.9,
+    "dice_f1": 99.95
+  },
+  {
+    "id_cenario": "CENARIO_02",
+    "descricao": "Cenario 2 - Eixo floral inclinado (elipses) e fundo gradiente solo/folhagem",
+    "largura": 1200,
+    "altura": 800,
+    "total_pixels": 960000,
+    "pixels_real_gt": 90980,
+    "pixels_detectados": 90971,
+    "erro_absoluto": 9,
+    "erro_percentual": 0.01,
+    "taxa_ocupacao_real": 9.477,
+    "taxa_ocupacao_detectada": 9.476,
+    "iou_jaccard": 99.99,
+    "dice_f1": 99.99
+  },
+  {
+    "id_cenario": "CENARIO_03",
+    "descricao": "Cenario 3 - Heterogeneidade cromatica (matizes azul/violeta) e sobreposicao",
+    "largura": 1200,
+    "altura": 800,
+    "total_pixels": 960000,
+    "pixels_real_gt": 40132,
+    "pixels_detectados": 40162,
+    "erro_absoluto": 30,
+    "erro_percentual": 0.075,
+    "taxa_ocupacao_real": 4.18,
+    "taxa_ocupacao_detectada": 4.184,
+    "iou_jaccard": 99.93,
+    "dice_f1": 99.96
+  }
+]
