@@ -155,6 +155,10 @@ Para assegurar a robustez do algoritmo frente a heterogeneidades morfológicas e
 > O relatório detalhado com discussões metodológicas e análise de limitações está disponível em [`sinteticos/relatorio_validacao_sintetica.md`](sinteticos/relatorio_validacao_sintetica.md).
 
 ---
+## Resultados:
+![](output/R5C_4430_painel_segmentacao.jpg)
+![](output/R5C_4431_painel_segmentacao.jpg)
+---
 
 ## 📚 Referências Bibliográficas e Normativas
 
